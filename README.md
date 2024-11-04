@@ -46,3 +46,19 @@ The project is structured into the following components:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/AI-SupplyChainRiskAssessor.git
+   ```
+
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd AI-SupplyChainRiskAssessor
+   ```
+
+3. **Set Environment Variables:**
+   ```bash
+   export OPENAI_API_KEY='your-openai-api-key'
+   export TAVILY_API_KEY='your-tavily-api-key'
+   ```
+   
+
+
+
